@@ -2,7 +2,7 @@ import React from 'react';
 
 const World = () => {
     const display = () => {
-        let myobject = {name:'Madras'};
+        let myobject = {name:'rokhith'};
         let newObject = myobject;
         newObject.name = 'Chennai';
 
